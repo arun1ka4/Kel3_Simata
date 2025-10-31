@@ -41,6 +41,7 @@ c. Petugas Lapangan: Memiliki beberapa fitur, diantaranya:
   - Buat: Membuat data laporan lapangan baru
   - Edit: Mengubah atau memperbarui data laporan yang sudah ada.
   - Hapus: Menghapus data laporan dari sistem
+    
 d. Petugas Pemeliharaan:
   - Pencarian berdasarkan tanggal pemeliharaan: Memfilter atau menampilkan data laporan di tabel utama berdasarkan tanggal pemeliharaan satwa tersebut.
   - Buat: Membuat data laporan lapangan baru
