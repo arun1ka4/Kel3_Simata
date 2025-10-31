@@ -18,6 +18,8 @@ d. Petugas Pemeliharaan:
 
 ## Penerapan OOP
 
+## Struktur Folder/Package 
+
 ## Library dan Framework yang Digunakan
 
-## Tutorial Menggunakan Program
+## Cara Kerja
