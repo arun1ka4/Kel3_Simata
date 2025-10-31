@@ -22,4 +22,4 @@ d. Petugas Pemeliharaan:
 
 ## Library dan Framework yang Digunakan
 
-## Cara Kerja
+## Cara Menggunakan Program
