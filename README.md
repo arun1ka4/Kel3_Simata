@@ -1,7 +1,7 @@
 # SISTEM MONITORING SATWA DAN HABITAT (SIMATA)
 
 ## Deskripsi Program 
-Simata ialah program yang berfungsi untuk memonitoring
+Simata ialah program yang berfungsi untuk mendata dan memantau satwa serta habitatnya secara terintegrasi. Sistem ini memudahkan petugas dalam mencatat, mengelola, dan melaporkan hasil observasi lapangan secara digital.
 
 ## Fitur Program
 a. Login: Pengguna dapat masuk ke akunnya dengan memasukkan username dan password
