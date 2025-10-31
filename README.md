@@ -35,10 +35,17 @@ b. Admin memiliki 5 menu dengan fitur yang berbeda pada setiap menu, diantaranya
   - Laporan Pemeliharaan: Berfungsi untuk melihat laporan yang dikirim oleh petugas pemeliharaan serta melakukan verifikasi terhadap laporan tersebut.
     
     Selain itu, terdapat fitur lihat detail yang berfungsi untuk melihat informasi lengkap dari data laporan, termasuk data yang tidak ditampilkan langsung di tabel utama.
-  - 
-c. Petugas Lapangan:
+    
+c. Petugas Lapangan: Memiliki beberapa fitur, diantaranya:
+  - Pencarian berdasarkan tanggal pengamatan: Memfilter atau menampilkan data laporan di tabel utama berdasarkan tanggal pengamatan satwa tersebut.
+  - Buat: Membuat data laporan lapangan baru
+  - Edit: Mengubah atau memperbarui data laporan yang sudah ada.
+  - Hapus: Menghapus data laporan dari sistem
 d. Petugas Pemeliharaan:
-
+  - Pencarian berdasarkan tanggal pemeliharaan: Memfilter atau menampilkan data laporan di tabel utama berdasarkan tanggal pemeliharaan satwa tersebut.
+  - Buat: Membuat data laporan lapangan baru
+  - Edit: Mengubah atau memperbarui data laporan yang sudah ada.
+  - Hapus: Menghapus data laporan dari sistem
 ## Penerapan OOP
  
 ## Struktur Folder/Package 
