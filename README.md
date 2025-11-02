@@ -26,6 +26,19 @@
 
 ---
 
+## 🧑‍💻 Tim SIMATA
+
+Kontribusi dilakukan secara kolaboratif dengan pembagian peran yang jelas untuk memastikan kualitas dan efisiensi pengembangan sistem **SIMATA**.
+
+| Nama | Peran | Tanggung Jawab Utama | Kontak |
+|------|--------|-----------------------|--------|
+| 🦁 **[Husaini Iyastama]** | **Full-Stack Developer (Lead)** | Tugas | [GitHub](https://github.com) |
+| 🐘 **[Anggota 2]** | **Database Engineer** | Tugas | — |
+| 🐿️ **[Anggota 3]** | **UI/UX Designer** | Tugas | — |
+| 🦅 **[Anggota 4]** | **Quality Assurance (QA) Tester** | Tugas | — |
+
+---
+
 ## 🧭 Gambaran Umum
 
 **SIMATA (Sistem Monitoring Satwa dan Habitat)** adalah aplikasi untuk mendukung kegiatan **konservasi satwa liar** dengan sistem pendataan dan pemantauan berbasis digital.  
