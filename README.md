@@ -4,6 +4,7 @@
 <p align="center">
   <img width="300" height="300" alt="SIMATA" src="https://github.com/user-attachments/assets/045f0887-1249-4f76-8c51-757213125d6c" />
 </p>
+
 ### **<ins>SIMATA — Smart Integrated Monitoring of Animals and Their Habitat</ins>**
 
 > Aplikasi berbasis desktop/web untuk mendata dan memantau satwa serta habitatnya secara digital dan terintegrasi.
