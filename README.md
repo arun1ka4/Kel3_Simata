@@ -54,5 +54,7 @@ d. Petugas Pemeliharaan:
 ## 🗂️Struktur Folder/Package 
 
 ## 📚Library dan Framework yang Digunakan
+<img width="342" height="116" alt="image" src="https://github.com/user-attachments/assets/65f63d7f-1a97-4ea4-9c26-4f2c23006c0f" />
+
 
 ## ⚙️Cara Menggunakan Program
