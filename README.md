@@ -1,118 +1,125 @@
-# 🦁 SISTEM MONITORING SATWA DAN HABITAT (SIMATA)
+<div align="center">
 
-> **SIMATA** adalah aplikasi berbasis desktop/web yang berfungsi untuk mendata dan memantau satwa serta habitatnya secara terintegrasi.  
-> Sistem ini membantu petugas dalam mencatat, mengelola, serta melaporkan hasil observasi lapangan secara digital dengan mudah dan efisien.
+# 🦁 SISTEM MONITORING SATWA DAN HABITAT  
+### **<ins>SIMATA — Smart Integrated Monitoring of Animals and Their Habitat</ins>**
+
+> Aplikasi berbasis desktop/web untuk mendata dan memantau satwa serta habitatnya secara digital dan terintegrasi.
 
 ---
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![CRUD](https://img.shields.io/badge/CRUD-Create%20Read%20Update%20Delete-blue?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-Object%20Oriented%20Programming-green?style=for-the-badge)
+![MVC](https://img.shields.io/badge/MVC-Model%20View%20Controller-orange?style=for-the-badge)
+![JDBC](https://img.shields.io/badge/JDBC-Java%20Database%20Connectivity-007396?style=for-the-badge&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+📍 **Developer:** Tim SIMATA Kelompok 3  
+🗓️ **Versi Terakhir:** v1.0.0  
+🖥️ **Platform:** Desktop / Web  
+📦 **Bahasa Pemrograman:** Java  
+🧩 **Database:** MySQL  
+
+</div>
+
+---
+
+## 🧭 Gambaran Umum
+
+**SIMATA (Sistem Monitoring Satwa dan Habitat)** adalah aplikasi untuk mendukung kegiatan **konservasi satwa liar** dengan sistem pendataan dan pemantauan berbasis digital.  
+Melalui platform ini, pengguna seperti **Admin**, **Petugas Lapangan**, dan **Petugas Pemeliharaan** dapat mencatat, mengelola, serta memverifikasi data satwa dan habitat dengan mudah dan efisien.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/65f63d7f-1a97-4ea4-9c26-4f2c23006c0f" width="420" alt="SIMATA UI">
+</p>
+
+---
+
+## 🌟 Fitur Utama
+
+| 💠 Peran | 🧰 Fitur Utama | 🔍 Deskripsi Singkat |
+|----------|----------------|----------------------|
+| **👤 Admin** | Kelola Akun, Satwa, Habitat, Laporan Lapangan, Laporan Pemeliharaan | Akses penuh terhadap seluruh data sistem |
+| **🌿 Petugas Lapangan** | Buat & kelola laporan observasi | Melakukan pendataan hasil pengamatan satwa di lapangan |
+| **🧰 Petugas Pemeliharaan** | Buat & kelola laporan pemeliharaan | Mencatat kondisi satwa dan habitat yang dirawat |
+
+---
+
+### 🛡️ Login & Keamanan
+🔐 Sistem autentikasi berbasis **username dan password**, memastikan hanya pengguna terdaftar yang dapat mengakses aplikasi.
+
+---
+
+### ⚙️ Fitur Admin (Full Control)
+- 👥 **Kelola Akun Pengguna** — Buat, ubah, dan hapus akun.  
+- 🐾 **Kelola Satwa** — Tambah/edit/hapus data satwa & tampilkan foto.  
+- 🌲 **Kelola Habitat** — Atur informasi habitat tiap satwa.  
+- 📋 **Laporan Lapangan** — Verifikasi laporan pengamatan dari petugas lapangan.  
+- 🧾 **Laporan Pemeliharaan** — Verifikasi laporan dari petugas pemeliharaan.
+
+---
+
+### 🌿 Fitur Petugas Lapangan
+- 🕒 **Filter Berdasarkan Tanggal Pengamatan**
+- ➕ **Buat Laporan Baru**
+- ✏️ **Edit & Hapus Laporan**
+- 🔍 **Lihat Detail Laporan**
+
+---
+
+### 🧰 Fitur Petugas Pemeliharaan
+- 🕒 **Filter Berdasarkan Tanggal Pemeliharaan**
+- ➕ **Tambah Laporan Baru**
+- ✏️ **Edit / Hapus Laporan**
+- 🔍 **Lihat Detail Laporan**
+
+---
+
+## 💡 Penerapan Konsep OOP
+
+| Konsep | Implementasi di SIMATA |
+|--------|-------------------------|
+| **Encapsulation** | Atribut dibuat privat dalam setiap class untuk keamanan data. |
+| **Inheritance** | Class `User` diwariskan ke `Admin`, `PetugasLapangan`, dan `PetugasPemeliharaan`. |
+| **Polymorphism** | Method yang sama berperilaku berbeda sesuai dengan role pengguna. |
+| **Abstraction** | Penggunaan class abstrak seperti `Satwa` dan `Habitat` untuk menyederhanakan kompleksitas. |
+
+---
+
+## 🗂️ Struktur Folder / Package (Contoh)
+
+
+---
+
+## 🧰 Teknologi & Library
+
+<div align="center">
+
+| Library / Framework | Fungsi |
+|----------------------|--------|
+| 🪟 **Java Swing / JavaFX** | GUI interaktif dan dinamis |
+| 🗄️ **MySQL / SQLite** | Database utama |
+| 🔗 **JDBC** | Koneksi antara aplikasi Java dan database |
+| 📅 **JCalendar** | Komponen kalender untuk memilih tanggal pada form laporan |
+
+</div>
+
+---
+
+## 🧾 Tampilan Antarmuka (Preview)
+<p align="center">
+  <img width="1024" height="768" alt="UI SIMATA" src="https://github.com/user-attachments/assets/c2f56d7b-8167-47b5-b071-e42dec0b7299" />
+  <br>
+  <em>Contoh tampilan dashboard Admin — modern, intuitif, dan informatif</em>
+</p>
+
+---
+
+## 🚀 Cara Menjalankan Program
+
+1. **Clone repository:**
+   ```bash
+   git clone https://github.com/username/simata.git
   
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/CRUD-Create%20Read%20Update%20Delete-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OOP-Object%20Oriented%20Programming-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MVC-Model%20View%20Controller-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JDBC-Java%20Database%20Connectivity-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
----
-
-## 📝 Deskripsi Program
-SIMATA dikembangkan untuk mendukung kegiatan konservasi dengan menyediakan sistem pencatatan satwa dan habitat yang modern.  
-Melalui sistem ini, proses dokumentasi, pemantauan, hingga verifikasi laporan dapat dilakukan secara terpusat oleh berbagai peran pengguna seperti **Admin**, **Petugas Lapangan**, dan **Petugas Pemeliharaan**.
-
----
-
-## 🔧 Fitur Utama
-
-### 👤 **Login**
-Pengguna dapat mengakses akun masing-masing dengan username dan password untuk menjaga keamanan sistem.
-
----
-
-### 🛠️ **Fitur Admin**
-Admin memiliki akses penuh terhadap sistem, dengan 5 menu utama:
-
-#### 1. Kelola Akun
-Mengatur seluruh akun pengguna, termasuk admin, petugas lapangan, dan petugas pemeliharaan.  
-Fitur:
-- ➕ **Buat** akun baru berdasarkan peran.
-- ✏️ **Edit** data akun pengguna.
-- 🗑️ **Hapus** akun dari sistem.
-- 🔍 **Lihat Detail** untuk menampilkan informasi lengkap pengguna.
-
-#### 2. Kelola Satwa
-Mengelola seluruh data satwa yang tercatat di sistem.  
-Fitur:
-- ➕ **Tambah** data satwa baru.
-- ✏️ **Edit** informasi satwa.
-- 🗑️ **Hapus** data satwa.
-- 🖼️ **Lihat Foto** untuk menampilkan gambar satwa lebih jelas.
-
-#### 3. Kelola Habitat
-Mengatur informasi habitat dari setiap satwa.  
-Fitur:
-- ➕ **Tambah** data habitat baru.
-- ✏️ **Edit** informasi habitat.
-- 🗑️ **Hapus** habitat dari sistem.
-
-#### 4. Laporan Lapangan
-Melihat dan memverifikasi laporan dari **petugas lapangan**.  
-Fitur:
-- ✅ **Verifikasi** laporan pengamatan.
-- 🔍 **Lihat Detail** untuk menampilkan data lengkap laporan.
-
-#### 5. Laporan Pemeliharaan
-Melihat dan memverifikasi laporan dari **petugas pemeliharaan**.  
-Fitur:
-- ✅ **Verifikasi** laporan pemeliharaan.
-- 🔍 **Lihat Detail** laporan secara lengkap.
-
----
-
-### 🌿 **Petugas Lapangan**
-Bertugas untuk membuat laporan hasil pengamatan satwa di lapangan.  
-Fitur:
-- 🔎 **Filter berdasarkan tanggal pengamatan**
-- ➕ **Buat** laporan baru
-- ✏️ **Edit** laporan
-- 🗑️ **Hapus** laporan
-- 🔍 **Lihat Detail** laporan
-
----
-
-### 🧰 **Petugas Pemeliharaan**
-Bertanggung jawab atas pemeliharaan habitat dan kondisi satwa.  
-Fitur:
-- 🔎 **Filter berdasarkan tanggal pemeliharaan**
-- ➕ **Buat** laporan baru
-- ✏️ **Edit** laporan
-- 🗑️ **Hapus** laporan
-- 🔍 **Lihat Detail** laporan
-
----
-
-## 🧩 Penerapan OOP
-SIMATA dibangun dengan konsep **Object-Oriented Programming (OOP)** yang meliputi:
-- **Encapsulation:** Pengelolaan data melalui class dan atribut privat.
-- **Inheritance:** Pewarisan class umum seperti `User` ke class `Admin`, `PetugasLapangan`, dan `PetugasPemeliharaan`.
-- **Polymorphism:** Implementasi method yang dapat berperilaku berbeda sesuai dengan peran pengguna.
-- **Abstraction:** Penyederhanaan kompleksitas sistem dengan class abstrak untuk entitas utama seperti `Satwa` dan `Habitat`.
-
----
-
-## 🗂️ Struktur Folder / Package
-
----
-
-## 📚 Library & Framework yang Digunakan
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/65f63d7f-1a97-4ea4-9c26-4f2c23006c0f" alt="Library Logo" width="380">
-</p>
-
-- **Java Swing / JavaFX** -> GUI interaktif  
-- **MySQL / SQLite** -> Database utama  
-- **JDBC** -> Koneksi antara Java dan database  
-- **iText / JasperReport** -> Pembuatan laporan PDF  
-- **FlatLaf / JTattoo** -> Tampilan UI modern  
-
----
