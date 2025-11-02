@@ -1,6 +1,6 @@
-# SISTEM MONITORING SATWA DAN HABITAT (SIMATA)
+# SISTEM MONITORING SATWA DAN HABITAT (SIMATA)🦁
 
-## Deskripsi Program 
+## 📝Deskripsi Program
 Simata ialah program yang berfungsi untuk mendata dan memantau satwa serta habitatnya secara terintegrasi. Sistem ini memudahkan petugas dalam mencatat, mengelola, dan melaporkan hasil observasi lapangan secara digital.
 
 ## Fitur Program
@@ -49,10 +49,10 @@ d. Petugas Pemeliharaan:
   - Edit: Mengubah atau memperbarui data laporan yang sudah ada.
   - Hapus: Menghapus data laporan dari sistem
   - Lihat Detail: Menampilkan informasi lengkap dari data laporan, termasuk data yang tidak ditampilkan langsung di tabel utama
-## Penerapan OOP
+## 🧩Penerapan OOP
  
-## Struktur Folder/Package 
+## 🗂️Struktur Folder/Package 
 
-## Library dan Framework yang Digunakan
+## 📚Library dan Framework yang Digunakan
 
-## Cara Menggunakan Program
+## ⚙️Cara Menggunakan Program
