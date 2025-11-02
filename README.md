@@ -5,10 +5,10 @@
 
 ---
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/94d2bd89-f739-4915-83a6-d1b3749bb8cf.png" width="400" alt="Tech Stack"/>
-</p>
-
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
+![CRUD](https://img.shields.io/badge/CRUD-Create%20Read%20Update%20Delete-blue?style=for-the-badge)  
+![OOP](https://img.shields.io/badge/OOP-Object%20Oriented%20Programming-green?style=for-the-badge)  
+![MVC](https://img.shields.io/badge/MVC-Model%20View%20Controller-orange?style=for-the-badge) 
 <p align="center">
   <img src="https://img.shields.io/badge/🔗-JDBC-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/🗄️-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
