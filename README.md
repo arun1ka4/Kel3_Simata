@@ -5,6 +5,17 @@
 
 ---
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/94d2bd89-f739-4915-83a6-d1b3749bb8cf.png" width="400" alt="Tech Stack"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🔗-JDBC-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/🗄️-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+---
+
 ## 📝 Deskripsi Program
 SIMATA dikembangkan untuk mendukung kegiatan konservasi dengan menyediakan sistem pencatatan satwa dan habitat yang modern.  
 Melalui sistem ini, proses dokumentasi, pemantauan, hingga verifikasi laporan dapat dilakukan secara terpusat oleh berbagai peran pengguna seperti **Admin**, **Petugas Lapangan**, dan **Petugas Pemeliharaan**.
