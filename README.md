@@ -1,60 +1,107 @@
-# SISTEM MONITORING SATWA DAN HABITAT (SIMATA)🦁
+# 🦁 SISTEM MONITORING SATWA DAN HABITAT (SIMATA)
 
-## 📝Deskripsi Program
-Simata ialah program yang berfungsi untuk mendata dan memantau satwa serta habitatnya secara terintegrasi. Sistem ini memudahkan petugas dalam mencatat, mengelola, dan melaporkan hasil observasi lapangan secara digital.
+> **SIMATA** adalah aplikasi berbasis desktop/web yang berfungsi untuk mendata dan memantau satwa serta habitatnya secara terintegrasi.  
+> Sistem ini membantu petugas dalam mencatat, mengelola, serta melaporkan hasil observasi lapangan secara digital dengan mudah dan efisien.
 
-## 🔧Fitur Program
-a. Login: Pengguna dapat masuk ke akunnya dengan memasukkan username dan password
+---
 
-b. Admin memiliki 5 menu dengan fitur yang berbeda pada setiap menu, diantaranya:
-  - Kelola Akun: Berfungsi untuk mengatur data akun dari pengguna, baik itu admin, petugas lapangan, maupun petugas lapangan.
+## 📝 Deskripsi Program
+SIMATA dikembangkan untuk mendukung kegiatan konservasi dengan menyediakan sistem pencatatan satwa dan habitat yang modern.  
+Melalui sistem ini, proses dokumentasi, pemantauan, hingga verifikasi laporan dapat dilakukan secara terpusat oleh berbagai peran pengguna seperti **Admin**, **Petugas Lapangan**, dan **Petugas Pemeliharaan**.
 
-    Terdapat beberapa fitur dari menu kelola akun, yaitu:
-    - Buat: Membuat akun baru sesuai dengan role/tipe pengguna, seperti admin, petugas lapangan, dan petugas pemeliharaan.
-    - Edit: Mengubah atau memperbarui data akun pengguna
-    - Hapus: Menghapus akun pengguna dari sistem
-    - Lihat detai: Melihat informasi lengkap dari data akun pengguna, termasuk data yang tidak ditampilkan langsung di tabel utama.
-  - Kelola satwa: Berfungsi untuk mengatur dan mengelola data satwa.
+---
 
-    Terdapat beberapa fitur dari menu kelola satwa, yaitu:
-    - Buat: Membuat data satwa baru
-    - Edit: Mengubah atau memperbarui data satwa yang sudah ada
-    - Hapus: Menghapus data satwa dari sistem
-    - Lihat Foto: Menampilkan foto satwa lebih jelas
-  
-  - Kelola Habitat: Berfungsi untuk mengatur dan mengelola data
+## 🔧 Fitur Utama
 
-    Terdapat beberapa fitur dari menu kelola habitat, yaitu:
-    - Buat: Membuat data habitat baru
-    - Edit: Mengubah atau memperbarui data habitat yang sudah ada
-    - Hapus: Menghapus data habitat dari sistem
-    
-  - Laporan Lapangan: Berfungsi untuk melihat laporan yang dikirim oleh petugas lapangan serta melakukan verifikasi terhadap laporan tersebut.
-    
-    Selain itu, terdapat fitur lihat detail yang berfungsi untuk melihat informasi lengkap dari data laporan, termasuk data yang tidak ditampilkan langsung di tabel utama.
-  - Laporan Pemeliharaan: Berfungsi untuk melihat laporan yang dikirim oleh petugas pemeliharaan serta melakukan verifikasi terhadap laporan tersebut.
-    
-    Selain itu, terdapat fitur lihat detail yang berfungsi untuk melihat informasi lengkap dari data laporan, termasuk data yang tidak ditampilkan langsung di tabel utama.
-    
-c. Petugas Lapangan: Memiliki beberapa fitur, diantaranya:
-  - Pencarian berdasarkan tanggal pengamatan: Memfilter atau menampilkan data laporan di tabel utama berdasarkan tanggal pengamatan satwa tersebut.
-  - Buat: Membuat data laporan lapangan baru
-  - Edit: Mengubah atau memperbarui data laporan yang sudah ada.
-  - Hapus: Menghapus data laporan dari sistem
-  - Lihat Detail: Menampilkan informasi lengkap dari data laporan, termasuk data yang tidak ditampilkan langsung di tabel utama
-    
-d. Petugas Pemeliharaan:
-  - Pencarian berdasarkan tanggal pemeliharaan: Memfilter atau menampilkan data laporan di tabel utama berdasarkan tanggal pemeliharaan satwa tersebut.
-  - Buat: Membuat data laporan pemeliharaan baru
-  - Edit: Mengubah atau memperbarui data laporan yang sudah ada.
-  - Hapus: Menghapus data laporan dari sistem
-  - Lihat Detail: Menampilkan informasi lengkap dari data laporan, termasuk data yang tidak ditampilkan langsung di tabel utama
-## 🧩Penerapan OOP
- 
-## 🗂️Struktur Folder/Package 
+### 👤 **Login**
+Pengguna dapat mengakses akun masing-masing dengan username dan password untuk menjaga keamanan sistem.
 
-## 📚Library dan Framework yang Digunakan
-<img width="342" height="116" alt="image" src="https://github.com/user-attachments/assets/65f63d7f-1a97-4ea4-9c26-4f2c23006c0f" />
+---
 
+### 🛠️ **Fitur Admin**
+Admin memiliki akses penuh terhadap sistem, dengan 5 menu utama:
 
-## ⚙️Cara Menggunakan Program
+#### 1. Kelola Akun
+Mengatur seluruh akun pengguna, termasuk admin, petugas lapangan, dan petugas pemeliharaan.  
+Fitur:
+- ➕ **Buat** akun baru berdasarkan peran.
+- ✏️ **Edit** data akun pengguna.
+- 🗑️ **Hapus** akun dari sistem.
+- 🔍 **Lihat Detail** untuk menampilkan informasi lengkap pengguna.
+
+#### 2. Kelola Satwa
+Mengelola seluruh data satwa yang tercatat di sistem.  
+Fitur:
+- ➕ **Tambah** data satwa baru.
+- ✏️ **Edit** informasi satwa.
+- 🗑️ **Hapus** data satwa.
+- 🖼️ **Lihat Foto** untuk menampilkan gambar satwa lebih jelas.
+
+#### 3. Kelola Habitat
+Mengatur informasi habitat dari setiap satwa.  
+Fitur:
+- ➕ **Tambah** data habitat baru.
+- ✏️ **Edit** informasi habitat.
+- 🗑️ **Hapus** habitat dari sistem.
+
+#### 4. Laporan Lapangan
+Melihat dan memverifikasi laporan dari **petugas lapangan**.  
+Fitur:
+- ✅ **Verifikasi** laporan pengamatan.
+- 🔍 **Lihat Detail** untuk menampilkan data lengkap laporan.
+
+#### 5. Laporan Pemeliharaan
+Melihat dan memverifikasi laporan dari **petugas pemeliharaan**.  
+Fitur:
+- ✅ **Verifikasi** laporan pemeliharaan.
+- 🔍 **Lihat Detail** laporan secara lengkap.
+
+---
+
+### 🌿 **Petugas Lapangan**
+Bertugas untuk membuat laporan hasil pengamatan satwa di lapangan.  
+Fitur:
+- 🔎 **Filter berdasarkan tanggal pengamatan**
+- ➕ **Buat** laporan baru
+- ✏️ **Edit** laporan
+- 🗑️ **Hapus** laporan
+- 🔍 **Lihat Detail** laporan
+
+---
+
+### 🧰 **Petugas Pemeliharaan**
+Bertanggung jawab atas pemeliharaan habitat dan kondisi satwa.  
+Fitur:
+- 🔎 **Filter berdasarkan tanggal pemeliharaan**
+- ➕ **Buat** laporan baru
+- ✏️ **Edit** laporan
+- 🗑️ **Hapus** laporan
+- 🔍 **Lihat Detail** laporan
+
+---
+
+## 🧩 Penerapan OOP
+SIMATA dibangun dengan konsep **Object-Oriented Programming (OOP)** yang meliputi:
+- **Encapsulation:** Pengelolaan data melalui class dan atribut privat.
+- **Inheritance:** Pewarisan class umum seperti `User` ke class `Admin`, `PetugasLapangan`, dan `PetugasPemeliharaan`.
+- **Polymorphism:** Implementasi method yang dapat berperilaku berbeda sesuai dengan peran pengguna.
+- **Abstraction:** Penyederhanaan kompleksitas sistem dengan class abstrak untuk entitas utama seperti `Satwa` dan `Habitat`.
+
+---
+
+## 🗂️ Struktur Folder / Package
+
+---
+
+## 📚 Library & Framework yang Digunakan
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/65f63d7f-1a97-4ea4-9c26-4f2c23006c0f" alt="Library Logo" width="380">
+</p>
+
+- **Java Swing / JavaFX** → GUI interaktif  
+- **MySQL / SQLite** → Database utama  
+- **JDBC** → Koneksi antara Java dan database  
+- **iText / JasperReport** → Pembuatan laporan PDF  
+- **FlatLaf / JTattoo** → Tampilan UI modern  
+
+---
