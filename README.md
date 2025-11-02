@@ -98,10 +98,10 @@ SIMATA dibangun dengan konsep **Object-Oriented Programming (OOP)** yang meliput
   <img src="https://github.com/user-attachments/assets/65f63d7f-1a97-4ea4-9c26-4f2c23006c0f" alt="Library Logo" width="380">
 </p>
 
-- **Java Swing / JavaFX** → GUI interaktif  
-- **MySQL / SQLite** → Database utama  
-- **JDBC** → Koneksi antara Java dan database  
-- **iText / JasperReport** → Pembuatan laporan PDF  
-- **FlatLaf / JTattoo** → Tampilan UI modern  
+- **Java Swing / JavaFX** -> GUI interaktif  
+- **MySQL / SQLite** -> Database utama  
+- **JDBC** -> Koneksi antara Java dan database  
+- **iText / JasperReport** -> Pembuatan laporan PDF  
+- **FlatLaf / JTattoo** -> Tampilan UI modern  
 
 ---
