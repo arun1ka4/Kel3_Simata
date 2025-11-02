@@ -125,7 +125,7 @@ Melalui platform ini, pengguna seperti **Admin**, **Petugas Lapangan**, dan **Pe
 <p align="center">
   <img width="1024" height="768" alt="UI SIMATA" src="https://github.com/user-attachments/assets/c2f56d7b-8167-47b5-b071-e42dec0b7299" />
   <br>
-  <em>Contoh tampilan dashboard Admin — modern, intuitif, dan informatif</em>
+  <em>Contoh tampilan login form — modern, menarik kurasa</em>
 </p>
 
 ---
