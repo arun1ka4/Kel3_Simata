@@ -128,6 +128,8 @@ Contoh penerapan
 
 2. **Inheritance**
 
+   <img width="522" height="32" alt="image" src="https://github.com/user-attachments/assets/b3b21571-39e2-4dea-b4da-5d78c00da0a4" />
+
 3. **Polymorphism**
 
    <img width="723" height="215" alt="image" src="https://github.com/user-attachments/assets/5b5c6960-1187-42e0-8f6c-9ea25edeb952" />
