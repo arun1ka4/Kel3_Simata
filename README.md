@@ -123,10 +123,14 @@ Melalui platform ini, pengguna seperti **Admin**, **Petugas Lapangan**, dan **Pe
 
 Contoh penerapan
 1. **Encapsulation**
-   
+
+   <img width="710" height="322" alt="image" src="https://github.com/user-attachments/assets/6a8f4c3d-eaca-4ba9-a5b2-f602814dfcc3" />
+
 2. **Inheritance**
 
 3. **Polymorphism**
+
+   <img width="723" height="215" alt="image" src="https://github.com/user-attachments/assets/5b5c6960-1187-42e0-8f6c-9ea25edeb952" />
 
 4. **Abstraction**
    
