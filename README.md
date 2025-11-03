@@ -48,10 +48,6 @@ Kontribusi dilakukan secara kolaboratif dengan pembagian peran yang jelas untuk 
 **SIMATA (Sistem Monitoring Satwa dan Habitat)** adalah aplikasi untuk mendukung kegiatan **konservasi satwa liar** dengan sistem pendataan dan pemantauan berbasis digital.  
 Melalui platform ini, pengguna seperti **Admin**, **Petugas Lapangan**, dan **Petugas Pemeliharaan** dapat mencatat, mengelola, serta memverifikasi data satwa dan habitat dengan mudah dan efisien.
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/65f63d7f-1a97-4ea4-9c26-4f2c23006c0f" width="420" alt="SIMATA UI">
-</p>
-
 ---
 
 ## 🌟 Fitur Utama
