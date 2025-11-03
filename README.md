@@ -259,4 +259,16 @@ Data laporan dapat disimpan langsung ke dalam sistem.
 Petugas lapangan memiliki peran untuk menginput laporan kegiatan di lapangan serta melihat data satwa dan habitat.  
 Antarmuka petugas dibuat sederhana dan responsif agar mudah digunakan di berbagai perangkat.
 
+<p align="center">
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/769468a6-2b93-49ae-9b8b-1503417ff679" />
+</p>
+
+### 👷‍♂️ **Petugas Pemeliharaan**
+Petugas Pemeliharaan memiliki peran untuk menginput laporan kegiatan pemeliharaan serta melihat data pengamatan dan pemeliharaan.  
+Antarmuka petugas dibuat sederhana dan responsif agar mudah digunakan di berbagai perangkat.
+
+<p align="center">
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/711d877b-89b0-457c-9a19-2eb70f4d3820" />
+</p>
+
 ✨ _Dengan sistem ini, pengelolaan satwa dan habitat menjadi lebih efisien, terstruktur, dan modern._ ✨
