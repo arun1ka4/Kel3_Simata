@@ -245,6 +245,10 @@ Admin dapat melihat seluruh laporan yang dikirimkan oleh petugas.
 Menu ini digunakan untuk mencatat laporan pemeliharaan habitat maupun satwa.  
 Data laporan dapat disimpan langsung ke dalam sistem.
 
+<p align="center">
+<img width="1002" height="762" alt="image" src="https://github.com/user-attachments/assets/28ad1ae5-4f50-48ff-aa54-67c5fe3ef4a0" />
+</p>
+
 > 💾 **Fitur:** Simpan laporan pemeliharaan dan arsip otomatis di database.
 
 ### 👷‍♂️ **Petugas Lapangan**
