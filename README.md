@@ -121,6 +121,10 @@ Melalui platform ini, pengguna seperti **Admin**, **Petugas Lapangan**, dan **Pe
 | 🔗 **JDBC** | Koneksi antara aplikasi Java dan database |
 | 📅 **JCalendar** | Komponen kalender untuk memilih tanggal pada form laporan |
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/65f63d7f-1a97-4ea4-9c26-4f2c23006c0f" width="420" alt="SIMATA UI">
+</p>
+
 </div>
 
 ---
