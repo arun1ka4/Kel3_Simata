@@ -128,7 +128,7 @@ Contoh penerapan
 
 2. **Inheritance**
 
-   <img width="522" height="32" alt="image" src="https://github.com/user-attachments/assets/b3b21571-39e2-4dea-b4da-5d78c00da0a4" />
+   <img width="395" height="45" alt="image" src="https://github.com/user-attachments/assets/1e5ab02a-655f-471e-886b-71d20bb4cc11" />
 
 3. **Polymorphism**
 
@@ -136,6 +136,8 @@ Contoh penerapan
 
 4. **Abstraction**
    
+   <img width="400" height="195" alt="image" src="https://github.com/user-attachments/assets/a7f791dd-e197-4603-8f4a-9ab395e5ea3a" />
+
 ---
 
 ## 🗂️ Struktur Folder / Package (Contoh)
