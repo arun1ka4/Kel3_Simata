@@ -50,6 +50,11 @@ Melalui platform ini, pengguna seperti **Admin**, **Petugas Lapangan**, dan **Pe
 
 ---
 
+Flowchart dan Use Case
+https://drive.google.com/file/d/1H33Z1jynKNq7nwCeRZ5pPgNIaBAGc5aD/view
+
+---
+
 ## 🌟 Fitur Utama
 
 | 💠 Peran | 🧰 Fitur Utama | 🔍 Deskripsi Singkat |
