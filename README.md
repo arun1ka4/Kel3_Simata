@@ -104,6 +104,15 @@ https://drive.google.com/file/d/1H33Z1jynKNq7nwCeRZ5pPgNIaBAGc5aD/view
 | **Polymorphism** | Method yang sama berperilaku berbeda sesuai dengan role pengguna. |
 | **Abstraction** | Penggunaan class abstrak seperti `Satwa` dan `Habitat` untuk menyederhanakan kompleksitas. |
 
+Contoh penerapan
+1. **Encapsulation**
+   
+2. **Inheritance**
+
+3. **Polymorphism**
+
+4. **Abstraction**
+   
 ---
 
 ## 🗂️ Struktur Folder / Package (Contoh)
@@ -144,4 +153,7 @@ https://drive.google.com/file/d/1H33Z1jynKNq7nwCeRZ5pPgNIaBAGc5aD/view
 1. **Clone repository:**
    ```bash
    git clone https://github.com/username/simata.git
-  
+
+---
+
+## Proses penggunaan program
