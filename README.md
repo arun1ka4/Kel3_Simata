@@ -50,8 +50,19 @@ Melalui platform ini, pengguna seperti **Admin**, **Petugas Lapangan**, dan **Pe
 
 ---
 
-Flowchart dan Use Case
-https://drive.google.com/file/d/1H33Z1jynKNq7nwCeRZ5pPgNIaBAGc5aD/view
+## 🧩 **Flowchart & Use Case Diagram**
+
+> Menjelaskan alur utama sistem serta interaksi antara aktor dan fungsionalitas dalam aplikasi **SIMATA**.
+
+📂 **Lihat Diagram Lengkap di Google Drive:**  
+🔗 [Klik di sini untuk membuka Flowchart & Use Case Diagram](https://drive.google.com/file/d/1H33Z1jynKNq7nwCeRZ5pPgNIaBAGc5aD/view)
+
+---
+
+### 🧭 **Penjelasan Singkat**
+- 🔹 **Flowchart** menggambarkan alur proses mulai dari login, pengelolaan data, hingga verifikasi laporan.  
+- 🔹 **Use Case Diagram** menampilkan hubungan antara aktor (**Admin**, **Petugas Lapangan**, dan **Petugas Pemeliharaan**) dengan fitur utama sistem.  
+- 🔹 Diagram ini berfungsi sebagai **panduan visual pengembangan sistem**, membantu memahami logika kerja serta tanggung jawab setiap peran pengguna.  
 
 ---
 
