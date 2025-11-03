@@ -185,13 +185,17 @@ Contoh penerapan
 Admin memulai dengan melakukan login ke sistem menggunakan akun yang telah terdaftar.  
 Setelah login berhasil, admin akan langsung diarahkan menuju **Dashboard Admin**.
 
-<img width="980" height="737" alt="image" src="https://github.com/user-attachments/assets/2c26e742-6a2e-493c-a801-b4fdca939385" />
+<p align="center">
+  <img width="580" height="337" alt="image" src="https://github.com/user-attachments/assets/2c26e742-6a2e-493c-a801-b4fdca939385" />
+</p>
 
 #### 2️⃣ Dashboard Admin
 Halaman utama setelah login berhasil.  
 Di sini admin dapat mengakses seluruh fitur utama seperti kelola akun, data satwa, data habitat, dan laporan.
 
-<img width="980" height="741" alt="image" src="https://github.com/user-attachments/assets/b70f2c66-f400-477f-9aa3-e83ad0246c11" />
+<p align="center">
+  <img width="580" height="341" alt="image" src="https://github.com/user-attachments/assets/b70f2c66-f400-477f-9aa3-e83ad0246c11" />
+</p>
 
 #### 3️⃣ Menu Kelola Akun 👥
 Menu ini memungkinkan admin untuk **mengelola akun pengguna**, termasuk fitur:
@@ -200,7 +204,9 @@ Menu ini memungkinkan admin untuk **mengelola akun pengguna**, termasuk fitur:
 - ❌ Hapus akun  
 - 🔍 Cari akun berdasarkan nama atau peran  
 
-<img width="986" height="732" alt="image" src="https://github.com/user-attachments/assets/6b349c93-8533-4240-b98e-08e7de7d0903" />
+<p align="center">
+  <img width="586" height="332" alt="image" src="https://github.com/user-attachments/assets/6b349c93-8533-4240-b98e-08e7de7d0903" />
+</p>
 
 > 💡 **Fitur unggulan:** CRUD (Create, Read, Update, Delete), tampilan data yang rapi, dan pencarian cepat.
 
@@ -208,8 +214,10 @@ Menu ini memungkinkan admin untuk **mengelola akun pengguna**, termasuk fitur:
 Menampilkan daftar satwa beserta informasi dan foto masing-masing.  
 Admin dapat melakukan pengelolaan data satwa secara lengkap.
 
-<img width="978" height="732" alt="image" src="https://github.com/user-attachments/assets/a4372bde-1cf0-47b4-9143-5efa15b99d48" />
-<img width="982" height="741" alt="image" src="https://github.com/user-attachments/assets/ceb96930-8b0d-4fae-b622-3e8f766ee1ec" />
+<p align="center">
+  <img width="578" height="332" alt="image" src="https://github.com/user-attachments/assets/a4372bde-1cf0-47b4-9143-5efa15b99d48" /><br/>
+  <img width="582" height="341" alt="image" src="https://github.com/user-attachments/assets/ceb96930-8b0d-4fae-b622-3e8f766ee1ec" />
+</p>
 
 > 📸 **Fitur:** CRUD data satwa + preview foto satwa langsung di aplikasi.
 
@@ -217,7 +225,9 @@ Admin dapat melakukan pengelolaan data satwa secara lengkap.
 Menu ini digunakan untuk mengelola data habitat satwa.  
 Admin dapat menambah, mengedit, atau menghapus habitat sesuai dengan kebutuhan.
 
-<img width="980" height="740" alt="image" src="https://github.com/user-attachments/assets/c78ecd60-61b4-4df8-a663-575ea6f48a0a" />
+<p align="center">
+  <img width="580" height="340" alt="image" src="https://github.com/user-attachments/assets/c78ecd60-61b4-4df8-a663-575ea6f48a0a" />
+</p>
 
 > ✅ **Fitur:** CRUD lengkap dan tampilan data yang mudah dibaca.
 
@@ -225,7 +235,9 @@ Admin dapat menambah, mengedit, atau menghapus habitat sesuai dengan kebutuhan.
 Fitur untuk mencatat dan menyimpan laporan hasil kegiatan di lapangan.  
 Admin dapat melihat seluruh laporan yang dikirimkan oleh petugas.
 
-<img width="972" height="736" alt="image" src="https://github.com/user-attachments/assets/049c022b-965a-40df-9243-2d423d6ea284" />
+<p align="center">
+  <img width="572" height="336" alt="image" src="https://github.com/user-attachments/assets/049c022b-965a-40df-9243-2d423d6ea284" />
+</p>
 
 > 🗂️ **Fitur:** Simpan, kelola, dan cetak laporan lapangan dengan mudah.
 
@@ -236,6 +248,7 @@ Data laporan dapat disimpan langsung ke dalam sistem.
 > 💾 **Fitur:** Simpan laporan pemeliharaan dan arsip otomatis di database.
 
 ### 👷‍♂️ **Petugas Lapangan**
-
+Petugas lapangan memiliki peran untuk menginput laporan kegiatan di lapangan serta melihat data satwa dan habitat.  
+Antarmuka petugas dibuat sederhana dan responsif agar mudah digunakan di berbagai perangkat.
 
 ✨ _Dengan sistem ini, pengelolaan satwa dan habitat menjadi lebih efisien, terstruktur, dan modern._ ✨
