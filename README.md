@@ -120,6 +120,7 @@ Melalui platform ini, pengguna seperti **Admin**, **Petugas Lapangan**, dan **Pe
 | **Inheritance** | Class `User` diwariskan ke `Admin`, `PetugasLapangan`, dan `PetugasPemeliharaan`. |
 | **Polymorphism** | Method yang sama berperilaku berbeda sesuai dengan role pengguna. |
 | **Abstraction** | Penggunaan class abstrak seperti `Satwa` dan `Habitat` untuk menyederhanakan kompleksitas. |
+| **Interface** | Implementasi antarmuka GUI memudahkan dalam pencatatatan dan pengamatan. |
 
 Contoh penerapan
 1. **Encapsulation**
@@ -140,8 +141,19 @@ Contoh penerapan
 
 ---
 
-## 🗂️ Struktur Folder / Package (Contoh)
+## 🧾 Tampilan Antarmuka (INTERFACE)
+<p align="center">
+  <img width="1024" height="768" alt="UI SIMATA" src="https://github.com/user-attachments/assets/c2f56d7b-8167-47b5-b071-e42dec0b7299" />
+  <br>
+  <em>Contoh tampilan login form — modern, menarik kurasa</em>
+</p>
 
+---
+
+## 🗂️ Struktur Folder / Package 
+<p align=""center>
+<img width="293" height="788" alt="image" src="https://github.com/user-attachments/assets/d2c86e67-1019-4a71-a419-a3609d1a151c" />
+</p>
 
 ---
 
@@ -161,15 +173,6 @@ Contoh penerapan
 </p>
 
 </div>
-
----
-
-## 🧾 Tampilan Antarmuka (Preview)
-<p align="center">
-  <img width="1024" height="768" alt="UI SIMATA" src="https://github.com/user-attachments/assets/c2f56d7b-8167-47b5-b071-e42dec0b7299" />
-  <br>
-  <em>Contoh tampilan login form — modern, menarik kurasa</em>
-</p>
 
 ---
 
